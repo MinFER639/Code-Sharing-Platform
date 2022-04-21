@@ -105,6 +105,7 @@ Response:
 Request: **GET /code/latest**
 
 Response:
+
 ![image](https://user-images.githubusercontent.com/78106413/164550106-d9c8d019-de3e-41c6-ba4b-1a06c08c5274.png)
 
 
@@ -114,6 +115,7 @@ Response:
 Request: **GET /code/new**
 
 Response:
+
 ![image](https://user-images.githubusercontent.com/78106413/164550163-a788b949-10ce-4b62-b2f7-510606448ca1.png)
 
 
